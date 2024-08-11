@@ -1,0 +1,6 @@
+2024/07/31-18:46:39.938 2fac Recovering log #74
+2024/07/31-18:46:39.938 2fac Level-0 table #76: started
+2024/07/31-18:46:39.944 2fac Level-0 table #76: 977 bytes OK
+2024/07/31-18:46:39.948 2fac Delete type=0 #74
+2024/07/31-18:46:39.948 2fac Delete type=3 #73
+2024/08/01-21:00:34.961 24ec Moved #76 to level-1 977 bytes OK: files[ 0 1 1 0 0 0 0 ]

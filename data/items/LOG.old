@@ -1,0 +1,5 @@
+2024/07/31-18:46:38.522 47ec Recovering log #73
+2024/07/31-18:46:38.524 47ec Level-0 table #75: started
+2024/07/31-18:46:38.530 47ec Level-0 table #75: 137483 bytes OK
+2024/07/31-18:46:38.537 47ec Delete type=0 #73
+2024/07/31-18:46:38.538 47ec Delete type=3 #72
